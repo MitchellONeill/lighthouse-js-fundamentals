@@ -21,3 +21,4 @@ function whichSchool(age) {
     console.log("Lighthouse Labs");
   }
 }
+
